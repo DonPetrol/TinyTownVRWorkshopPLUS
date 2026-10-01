@@ -1,4 +1,4 @@
-# Workshop Plus 1.0
+# Workshop Plus
 
 An upgrade for Tiny Town VR's Workshop tool (`Workshop.exe`). It keeps everything the original tool does and adds better model and texture importing, a much more capable item list, and many fixes. Everything it publishes uses the game's normal format, so other players see your items without installing anything.
 
