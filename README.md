@@ -29,3 +29,7 @@ An upgrade for Tiny Town VR's Workshop tool (`Workshop.exe`). It keeps everythin
 
 - Items and settings: `%USERPROFILE%\AppData\LocalLow\Lumbernauts\TinyTownWorkshop\Internal\Workshop\Development` (`workshopplus_*` files and folders).
 - Log: `%USERPROFILE%\AppData\LocalLow\Lumbernauts\TinyTownWorkshop\output_log.txt` (lines tagged `[WorkshopPlus]`).
+
+
+
+## Made using Claude Opus, Im a monkey banging rocks together, fuck GenAI when its screwing people over.
