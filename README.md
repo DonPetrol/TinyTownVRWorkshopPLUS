@@ -32,4 +32,5 @@ An upgrade for Tiny Town VR's Workshop tool (`Workshop.exe`). It keeps everythin
 
 
 
-## Made using Claude Opus, Im a monkey banging rocks together, fuck GenAI when its screwing people over.
+## Made with help using Claude
+## I don't claim to know 100% what I'm doing, I'm a monkey banging rocks together.
